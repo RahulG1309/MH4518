@@ -76,3 +76,14 @@ dependencies:
   - zeromq=4.3.4
   - zipp=3.17.0
   - zlib=1.2.13
+  - pip:
+      - click==8.1.7
+      - contourpy==1.1.1
+      - cycler==0.12.1
+      - fonttools==4.43.1
+      - kiwisolver==1.4.5
+      - matplotlib==3.8.1
+      - nelson-siegel-svensson==0.5.0
+      - pillow==10.1.0
+      - pyparsing==3.1.1
+      - scipy==1.11.3
