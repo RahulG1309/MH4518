@@ -1,3 +1,9 @@
+# Raw data files
+asset_prices_raw.csv
+product_prices_raw.csv
+daily-treasury-rates-2022.csv
+daily-treasury-rates-2023.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
